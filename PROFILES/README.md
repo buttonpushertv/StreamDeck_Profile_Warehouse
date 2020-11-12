@@ -1,0 +1,1 @@
+This is the folder where people's StreamDeck Profiles will be stored.
