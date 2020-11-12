@@ -22,4 +22,4 @@ If you have nested folders, it would nice to make screen grabs of those as well.
 4. To make a submission, click on 'Issues' above and create a new issue.
 
 Thanks,
-Ben
+Ben Howard (ben@buttonpusher.tv)
