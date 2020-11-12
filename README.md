@@ -27,5 +27,7 @@ If you have nested folders, it would nice to make screen grabs of those as well.
 
 5. To make a submission, click on 'Issues' above and create a new issue.
 
+Take a look at how the [Example Profile](PROFILES/_EXAMPLE-PROFILE) is laid out and mimic that for yours.
+
 Thanks,
 Ben Howard (ben@buttonpusher.tv)
