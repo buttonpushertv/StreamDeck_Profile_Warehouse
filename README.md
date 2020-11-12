@@ -1,7 +1,7 @@
 # StreamDeck_Profile_Warehouse
-As a member of the community of Colorists (and editors, motion graphic designers, etc) at [mixinglight.com](http:\\mixinglight.com), we were discussing ways to share layouts for our individual SteamDeck Profiles. Or, if you'd like, you can submit a set of Icons to use as button labels. Icons should be 288x288 PNG files.
+As members of the community of Colorists (and editors, motion graphic designers, etc) at [mixinglight.com](http:\\mixinglight.com), we were discussing ways to share layouts for our individual SteamDeck Profiles. I thought of using a GitHub repository as a way to keep tabs on versions and allow for updates or tweaks. You can submit your own Stream Deck profiles here. Or, if you'd like, you can submit a set of Icons for others to use as button labels in their Stream Deck setups. Icons should be 288x288 PNG files.
 
-This repository has been setup as a place to submit your StreamDeck Profiles (& any other supporting files you'd like to share).
+Browse the submissions in the PROFILES or ICONS folder and see what others are doing. Share your setups and collaborate with others to improve your workflows.
 
 To make a submission, follow the instructions below and then submit an "Issue" using the link above.
 
@@ -27,7 +27,8 @@ If you have nested folders, it would nice to make screen grabs of those as well.
 
 5. To make a submission, click on 'Issues' above and create a new issue.
 
-Take a look at how the [Example Profile](PROFILES/_EXAMPLE-PROFILE) is laid out and mimic that for yours.
+Take a look at how the [Example Profile](PROFILES/_EXAMPLE-PROFILE) is laid out and mimic that for yours. (You don't need to include the ZIP file inside itself, of course.)
 
 Thanks,
 Ben Howard (ben@buttonpusher.tv)
+Visit my [buttonpusherKB](https://github.com/buttonpushertv/buttonpusherKB) repo for a whole 'nother level of cusomizing your system or for ideas on what you _could_ do with a little work.
