@@ -10,6 +10,7 @@ assignees: ''
 Here is a submission for the Stream Deck Profile Warehouse.
 
 Here is the info you need to know:
+Icons for: _(if you're just submitting ICONS, that's fine)_
 Profile Name(s): _(submitting a single profile is easiest to process)_
 Use with App: _(which app does it work with)_
 Name: _(what name would you like to share this with)_
