@@ -17,6 +17,10 @@ To submit a set of profile files, you need to follow these steps:
 
 If you have nested folders, it would nice to make screen grabs of those as well.
 
+3. Write up a little explanation in a simple text file named "README.md". You can reference images in your README by typing this for each image:
+
+`![Description](filename.ext)`
+
 3. Place everything in a folder & ZIP it.
 
 4. To make a submission, click on 'Issues' above and create a new issue.
